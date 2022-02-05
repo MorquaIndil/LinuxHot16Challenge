@@ -1,0 +1,47 @@
+# AUTOR: Indil
+# Zasady: https://github.com/ZPXD/LinuxHot16Challenge
+
+# HOT 16 
+
+
+# 1. man- pokaż pomoc, objaśnia co robi dana po nim komenda
+# 2. pwd- pokazuje nam, w którym katalogu się aktualnie znajdujemy
+# 3. kill- kończy proces, który nam nie poszedł, albo z innych przyczyn chcemy zabić
+# 4. mkdir- tworzy nowe katalogi
+# 5. rmdir- usuwa katalogi
+# 6. ls- pokazuje zawartość katalogu, w którym akurat jesteśmy
+# 7. cd ..- cofamy się do poprzedniego katalogu
+# 8. touch- tworzy nowy plik
+# 9. cp- kopiuje pliki
+# 10. su/ sudo- dają uprawnienia admińskie
+# 11. dir- wyświetla zawartość katalogu
+# 12. rm- usuwa pliki
+# 13. cd- zmienia nam katalog, w którym jesteśmy
+# 14. gp update- aktualizuje serwer o ostatnio dokonane zmiany
+# 15. exit- zamyka terminal
+# 16. locate- pokazuje lokalizację poszukiwanego pliku
+
+#Hot 32
+
+# 17. cat- łączy pliki
+# 18. mv- przenosi plik do innego folderu
+# 19. find- wyszukuje pliki i foldery
+# 20. clear- czyści okno terminala
+# 21. head- wyświetla 10 pierwszych linijek tekstu danego pliku 
+# 22. reboot- restartuje nam terminal
+# 23. ps- pokazuje listę aktualnych procesów, cokolwiek to oznacza. 
+# 24. tail- wyświetla10 ostatnich linijek danego pliku
+# 25. ping- sprawdza czy mamy połączenie sieciowe z innym komputerem
+# 26. passwd- pozwala na zmianę hasła
+# 27. diff- porównuje pliki tekstowe
+# 28. df-  pokazuje rozmiar, zajęte miejsce, dostępne miejsce, procent użycia i zamontowane na szczegółach systemów plików komputera
+# 29. w- wyświetla informację o użytkownikach, którzy są aktualnie zalogowani na stronie
+# 30. casl- wyświetla kalendarz na bieżący miesiąc
+# 31. whoami- wyświetla nazwę uzytkownika, ktory aktualnie jest zalogowany na serwerze
+# 32. history- pokazuje historię uzytych komend
+
+#### ZPXD:
+# Darmowe roczne zajęcia z programowania. Zapraszajcie:
+# Szturm na AWS - www: https://zajecia-programowania-xd.pl/szturm_na_aws
+# Szturm na AWS - fb: https://www.facebook.com/Szturm-na-AWS-109216351659123
+# Szturm na AWS - discord: https://discord.gg/46JVvHgzqz
